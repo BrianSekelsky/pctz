@@ -1,6 +1,5 @@
 ---
 title: Peace Corps Tanzania
-description: ""
 timezone: UTC
 collections:
   committees:
@@ -12,8 +11,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: pctzict@gmail.com
 description: 
+email: pctzict@gmail.com
 baseurl: "/pctz"
 url: ''
 twitter_username: jekyllrb
