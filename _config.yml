@@ -14,7 +14,7 @@ collections:
   volunteer-life:
     title: Volunteer Life
     output: true
-description: 
+description: volunteer resources
 email: pctzict@gmail.com
 baseurl: "/pctz"
 url: ''
