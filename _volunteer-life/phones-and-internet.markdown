@@ -1,6 +1,7 @@
 ---
 title: Phones and Internet
 date: 2018-08-03 10:40:00 Z
+layout: page
 ---
 
 **Internet & Data Bundles**
