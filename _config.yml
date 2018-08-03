@@ -11,6 +11,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  volunteer-life:
+    title: Volunteer Life
+    output: true
 description: 
 email: pctzict@gmail.com
 baseurl: "/pctz"
