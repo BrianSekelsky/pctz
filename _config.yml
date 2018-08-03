@@ -8,8 +8,8 @@ collections:
   posts:
     title: Posts
     output: true
-  sectory:
-    title: Sectory
+  sector:
+    title: Sector
     output: true
   uploads:
     title: Uploads
